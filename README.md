@@ -1,4 +1,4 @@
-# Clever Cloud Internship - Desafío Inicial
+# Clever Cloud Internship - Desafíos 
 
 Este repositorio contiene la solución a los tres ejercicios del desafío técnico utilizando **JavaScript**.
 
@@ -33,10 +33,6 @@ cd CLEVER-DESAFIOS-INTERNSHIP
 ```bash
 node nombre-archivo.js
 ```
-
-## Salida esperada
-
-El programa mostrará en la consola los resultados de los casos de prueba incluidos para cada ejercicio.
 
 ## Autor
 
