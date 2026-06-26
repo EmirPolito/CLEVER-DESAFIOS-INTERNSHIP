@@ -36,4 +36,4 @@ node nombre-archivo.js
 
 ## Autor
 
-> **Emir Polito Guevara**
+> **Emir Polito Guevara** - Frontend & QA Tester
