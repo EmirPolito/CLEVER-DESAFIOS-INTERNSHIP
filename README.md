@@ -17,18 +17,30 @@ Este repositorio contiene la solución a los tres ejercicios del desafío técni
 
 - Node.js instalado.
 
-## Cómo ejecutar
+## Instalación y ejecución
 
-1. Clona o descarga el proyecto.
-2. Abre una terminal en la carpeta del proyecto.
-3. Ejecuta el siguiente comando:
+1. Clona este repositorio:
 
 ```bash
-node desafio.js
+git clone https://github.com/EmirPolito/CLEVER-DESAFIOS-INTERNSHIP.git
+```
+
+2. Entra al directorio del proyecto:
+
+```bash
+cd CLEVER-DESAFIOS-INTERNSHIP
+```
+
+3. Ejecuta el programa:
+
+```bash
+node desafio-1.js
 ```
 
 ## Salida esperada
 
 El programa mostrará en la consola los resultados de los casos de prueba incluidos para cada ejercicio.
 
-> **Autor**: Emir Polito Guevara
+## Autor
+
+> **Emir Polito Guevara**
