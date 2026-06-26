@@ -4,14 +4,11 @@ Este repositorio contiene la solución a los tres ejercicios del desafío técni
 
 ## Ejercicios
 
-1. **Suma de dígitos**
-- Calcula la suma de todos los dígitos de un número entero.
+1. **Suma de dígitos**: Calcula la suma de todos los dígitos de un número entero.
 
-2. **Palíndromos**
-- Verifica si una cadena de texto es un palíndromo.
+2. **Palíndromos**: Verifica si una cadena de texto es un palíndromo.
 
-3. **Ordenamiento**
-- Ordena un arreglo de números enteros en orden ascendente sin utilizar funciones nativas como `sort()`.
+3. **Ordenamiento**: Ordena un arreglo de números enteros en orden ascendente sin utilizar funciones nativas como `sort()`.
 
 ## Requisitos
 
